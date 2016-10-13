@@ -1,0 +1,2 @@
+# locationShareServiceDocs
+位置情報共有サービスのまとめ
